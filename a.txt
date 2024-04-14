@@ -10,6 +10,6 @@ line e
 <<<<<<< HEAD
 line 6
 line 7
-=======
+=======aasdasdasdas
 modified here
 >>>>>>> experiment
