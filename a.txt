@@ -3,3 +3,5 @@ line b
 line c
 line d
 line e
+line 6
+line 7
