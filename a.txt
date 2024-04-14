@@ -1,7 +1,15 @@
+<<<<<<< HEAD
 asdasdline a
+=======
+line a
+>>>>>>> experiment
 line b
 line c
 line d
 line e
+<<<<<<< HEAD
 line 6
 line 7
+=======
+modified here
+>>>>>>> experiment
