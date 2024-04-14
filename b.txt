@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 asdasdasdasdasdasdasdasdasd
+=======
+asdasdasdasdasdasdasd
+>>>>>>> d23c771 (Update b.txt)
